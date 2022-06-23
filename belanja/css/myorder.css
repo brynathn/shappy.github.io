@@ -1,0 +1,206 @@
+body{
+    background-color: #060930;
+}
+
+hr{
+    color: white;
+    height: 2px;
+}
+
+h1{
+    font-weight: 700;
+    color: white;
+}
+.content{
+    text-align: center;
+    margin-top: 55px;
+}
+.icon img{
+    width: 60px;
+}
+
+.keterangan p{
+    font-weight: 700;
+    color: white;
+    font-size: 13px;
+}
+
+.p1{
+    margin-right: -329px;
+}
+
+.p2{
+    margin-right: 15px;
+}
+
+.p3{
+    margin-right: -297px;
+}
+
+.p4{
+    margin-right: -192px;
+}
+
+.gambar img{
+    width: 84px;
+    height: 84px;
+    background-color: white;
+}
+
+
+.a1{
+    margin-right: -130px;
+}
+
+.a2{
+    margin-right: 91px;
+}
+
+.a2 h4{
+    color: white;
+    text-align: left;
+    line-height: 20px;
+}
+
+.color{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.a3{
+    margin-right: -106px;
+}
+
+.btn1{
+    width:47px;
+    height:34px;
+    background:#f2f2f2;
+    border-radius:4px;
+    padding-top: 2px;
+    color: black;
+    border:1px solid #ddd;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    }
+    
+    input{
+    height:34px;
+    width: 54px;
+    text-align: center;
+    font-size: 13px;
+    border:1px solid #ddd;
+    border-radius:4px;
+    display: inline-block;
+    vertical-align: middle;
+    }
+
+        .subtotal{
+            text-align: right;
+            margin-top: 55px;
+            color: white;
+        }
+
+        .subtotal1{
+            margin-left: 715px;
+        }
+
+        .content2{
+            text-align: center;
+            margin-top: 55px;
+            padding-bottom: 80px;
+        }
+
+        .alamat{
+            text-align: left;
+            margin-right: 33px;
+            margin-bottom: 9px;
+        }
+
+        .terakhir{
+            color: white;
+        }
+
+        .terakhir1{
+            color: black;
+        }
+
+        .number h4{
+            font-weight: 400;
+            font-size: 14px;
+        }
+
+        .address h4{
+            font-weight: 400;
+            font-size: 14px;
+        }
+
+        .button{
+            background-color: rgba(255, 255, 255, 0.705);
+            width: 100px;
+            height: 34px;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 13px;
+        }
+
+        .margin1{
+            margin-left: 37px;
+        }
+        .margin2{
+            margin-left: 28px;
+        }
+        .margin3{
+            margin-left: 36px;
+        }
+        .margin4{
+            margin-left: 37px;
+        }
+
+        .button:hover{
+            background-color: #F4ABC4;
+            cursor: pointer;
+        }
+
+        .voucher{
+            background-color: rgba(255, 255, 255, 0.705);
+            border-radius: 12px;
+            width: 215px;
+            height: 30px;
+            text-align: left;
+        }
+
+        .margin{
+            margin-top: 2px;
+            margin-left: 10px;
+            opacity: 0.5;
+        }
+
+        .judul{
+            text-align: left;
+        }
+ 
+        .voucher2{
+            margin-bottom: 189px;
+        }
+
+        .judul2{
+            text-align: left;
+            margin-right: 400px;
+        }
+
+        .kiri{
+           text-align: left;
+        }
+
+        .kanan{
+            text-align: right;
+        }
+
+        .address h3{
+            font-size: 20px;
+        }
+
+        .kolombil{
+            margin-bottom: 12px;
+        }
