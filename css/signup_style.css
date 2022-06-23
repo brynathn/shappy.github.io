@@ -1,0 +1,62 @@
+.background{
+	background-color: #060930;
+}
+
+.card{
+	background-color: #595B83;
+	border-radius: 0px;
+  padding-top: 30px;
+  padding-bottom: 16px;
+}
+
+.logoShappy{
+	width: 250px;
+}
+
+form.user .form-control-user {
+  font-size: .8rem;
+  border-radius: 10px;
+  padding: 1.5rem 1rem;
+  border-color: white;
+}
+
+form.user .btn-user {
+  font-size: .8rem;
+  border-radius: 10px;
+  padding: .75rem 1rem;
+  background-color: #F4ABC4;
+  color: black;
+  border-color: #F4ABC4;
+  font-weight: bold;
+}
+
+.small{
+	color: white;
+}
+
+.small:hover{
+  color: rgba(255, 255, 255, 0.557);
+}
+
+.text-left{
+	color: white;
+}
+
+.service{
+	margin: 11px;
+  width: 30px;
+  height: 30px;
+}
+
+.property img{
+  width: 421px;
+  margin-left: 28px;
+  margin-top: 9px;
+}
+
+
+.teks{
+  margin-right: 362px;
+  margin-top: 20px;
+  color: white;
+}
